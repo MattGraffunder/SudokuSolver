@@ -1,0 +1,5 @@
+C:\Users\Matt\documents\visual studio 2012\Projects\Sudoku Solver\SudokuSolverTests\bin\Debug\SudokuSolverTests.dll
+C:\Users\Matt\documents\visual studio 2012\Projects\Sudoku Solver\SudokuSolverTests\bin\Debug\SudokuSolverTests.pdb
+C:\Users\Matt\documents\visual studio 2012\Projects\Sudoku Solver\SudokuSolverTests\obj\Debug\SudokuSolverTests.csprojResolveAssemblyReference.cache
+C:\Users\Matt\documents\visual studio 2012\Projects\Sudoku Solver\SudokuSolverTests\obj\Debug\SudokuSolverTests.dll
+C:\Users\Matt\documents\visual studio 2012\Projects\Sudoku Solver\SudokuSolverTests\obj\Debug\SudokuSolverTests.pdb
